@@ -1,10 +1,12 @@
 {
   "name": "hello-next",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello Next Tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
